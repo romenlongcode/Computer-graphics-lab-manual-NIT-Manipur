@@ -1,2 +1,2 @@
 # Computer-graphics-lab-manual-NIT-Manipur
-Collection of lab programs for Computer Graphics labb
+Collection of lab programs for Computer Graphics lab
